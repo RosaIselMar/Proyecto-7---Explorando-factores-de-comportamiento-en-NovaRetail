@@ -7,16 +7,17 @@ El dataset ConnectaTel incluye 15,000 usuarios con valores de problemas de calid
 
 📘 Cómo reproducir el análisis
 
-Abre S8 Student Version-Project-NovaRetail (2)
+-Abre S8 Student Version-Project-NovaRetail (2)
 
 Ejecuta las celdas en orden
+
 El notebook carga automáticamente el dataset desde /data/ o desde un enlace público (según corresponda)
 
 🧠 Objetivo del análisis
 
-Integrar múltiples técnicas de correlación en un solo análisis.
-Identificar relaciones significativas entre variables mediante el uso de scatterplots y heatmaps.
-Detectar correlaciones engañosas.
-Documentar supuestos y limitaciones.
-Convertir hallazgos en recomendaciones de negocio.
+- Integrar múltiples técnicas de correlación en un solo análisis.
+- Identificar relaciones significativas entre variables mediante el uso de scatterplots y heatmaps.
+- Detectar correlaciones engañosas.
+- Documentar supuestos y limitaciones.
+- Convertir hallazgos en recomendaciones de negocio.
 
